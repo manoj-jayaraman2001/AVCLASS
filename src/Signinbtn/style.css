@@ -1,0 +1,24 @@
+.btnsignin {
+    width: 50px;
+    height: 50px;
+    background: white;
+    color: rgb(214, 121, 121);
+    border-radius: 15px;
+    transform: rotate(45deg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* position: fixed; */
+    top: 1.5rem;
+    cursor: pointer;
+    right: 6rem;
+  }
+  
+  .btnsignin i {
+    transform: rotate(-45deg);
+  }
+  .Signinicon{
+    transform: rotate(-45deg);
+    background-color: white;
+    color: black;
+  }
