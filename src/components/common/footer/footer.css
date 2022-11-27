@@ -1,0 +1,39 @@
+.footerContact {
+  background-color: #525e8f;
+  padding: 40px 0;
+  color: #fff;
+}
+.footerContact h1 {
+  font-size: 40px;
+}
+footer {
+  background-color: #1d2636;
+  padding: 50px 0;
+  color: #fff;
+}
+.socialicons, .contactdetails , .address_section{
+  display: flex;
+  justify-content: center;
+  margin: 20px 0px;
+  align-items: center;
+}
+
+.socialicons a{
+   color: white;
+}
+.socialicons svg{
+  margin: 0px 50px;
+}
+
+.contactdetails a{
+  color: white;
+}
+
+.contactdetails span{
+  display: flex;
+  align-items: center;
+  margin: 0px 22px;
+}
+
+
+

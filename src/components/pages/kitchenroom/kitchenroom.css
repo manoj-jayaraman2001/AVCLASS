@@ -1,0 +1,35 @@
+.kitchenroom .category span {
+    padding: 4px 15px;
+    border-radius: 2px;
+    font-weight: 600;
+    font-size: 13px;
+    display: inline-block;
+  }
+  .kitchenroom p {
+    color: #72809d;
+  }
+
+ .img{
+    height: 300px;
+  }
+  .fa-heart:hover{
+    color: red !important;
+  }
+  .getest{
+    background-color: #525e8f;
+    color: white;
+    border-radius: 30px;
+   /* float: right; */
+   
+  }
+
+  .kitchenroomtext{
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  }
+
+  .kitchenroompage{
+    padding: 40px;
+  }
