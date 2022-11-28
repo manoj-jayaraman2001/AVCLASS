@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/github.io/avclass/static/css/main.91bd5bdd.css",
+    "main.js": "/github.io/avclass/static/js/main.c8e3a85b.js",
+    "static/media/contact.jpg": "/github.io/avclass/static/media/contact.10809da863f98a663832.jpg",
+    "static/media/about.png": "/github.io/avclass/static/media/about.5f45dd39626516c0330b.png",
+    "static/media/pricing.jpg": "/github.io/avclass/static/media/pricing.4552ccf3b91e93029513.jpg",
+    "static/media/services.jpg": "/github.io/avclass/static/media/services.13be7fde05782bd5e2e8.jpg",
+    "static/media/Banner.jpg": "/github.io/avclass/static/media/Banner.d5309572bcf77398ca05.jpg",
+    "static/media/Design.jpg": "/github.io/avclass/static/media/Design.391f148c7d9759674591.jpg",
+    "index.html": "/github.io/avclass/index.html",
+    "main.91bd5bdd.css.map": "/github.io/avclass/static/css/main.91bd5bdd.css.map",
+    "main.c8e3a85b.js.map": "/github.io/avclass/static/js/main.c8e3a85b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91bd5bdd.css",
+    "static/js/main.c8e3a85b.js"
+  ]
+}
