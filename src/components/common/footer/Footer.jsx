@@ -58,8 +58,8 @@ const Footer = () => {
 
           <a href="https://instagram.com/avclassinteriors_?igshid=YmMyMTA2M2Y" target='blank'><BsInstagram size={30} /></a>
           <a href="https://www.facebook.com/profile.php?id=100083414385634&mibextid=ZbWKwL" target='blank'><BsFacebook size={30} /></a>
-          <BsLinkedin size={30} />
-          <a href="https://www.facebook.com/profile.php?id=100083414385634&mibextid=ZbWKwL" target='blank'><BsTwitter size={30} /></a>
+          <a href="https://www.linkedin.com/in/av-class-interiors-259664258/"target='blank'><BsLinkedin size={30} /></a>
+          <a href="https://twitter.com/InteriorsAv?t=vv6TRkzbcyPlyb45DqJCEA&s=08" target='blank'><BsTwitter size={30} /></a>
          
           
         </div>
@@ -72,7 +72,7 @@ const Footer = () => {
             </span>
         </div>
         <div className="address_section">
-            <BiMap size={25}/>AV Class Interiors
+            <BiMap size={25}/>AV Class Interiors, 
 indu fortune fields gardenia, 13th Phase Rd, Kukatpally Housing Board Colony, Hyderabad, Telangana 500072
         </div>
 
